@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SVP Smart Valet Parking shirt logo</title>
+  <desc id="desc">A square gold SVP monogram on black with a small Smart Valet Parking signature.</desc>
+
+  <rect width="512" height="512" rx="72" fill="#050505"/>
+  <rect x="24" y="24" width="464" height="464" rx="58" fill="none" stroke="#D4A72C" stroke-width="5"/>
+
+  <text x="256" y="286" text-anchor="middle" font-family="Trebuchet MS, Arial, sans-serif" font-size="178" font-weight="700" letter-spacing="-12" fill="#E5B93F">S<tspan fill="#F2C94C">V</tspan><tspan fill="#E5B93F">P</tspan></text>
+
+  <path d="M116 348h280" fill="none" stroke="#D93636" stroke-width="8" stroke-linecap="round"/>
+
+  <text x="256" y="410" text-anchor="middle" font-family="Trebuchet MS, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="3" fill="#F5F5F5">SMART VALET PARKING</text>
+</svg>
