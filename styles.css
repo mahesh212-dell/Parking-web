@@ -470,6 +470,9 @@ form input[type="date"]::-webkit-calendar-picker-indicator {
 .nav-whatsapp { background: #10b981; color: #0f172a; }
 .nav-listing { display: inline-flex; align-items: center; justify-content: center; gap: .5rem; padding: .7rem 1rem; border-radius: .75rem; background: #10b981; color: #0f172a; font-size: .82rem; font-weight: 700; text-decoration: none; transition: background .2s ease; }
 .nav-listing:hover { background: #6ee7b7; }
+.phone-actions { display: inline-flex; flex-wrap: wrap; gap: .5rem; margin-left: .75rem; vertical-align: middle; }
+.phone-actions a { display: inline-flex; align-items: center; border-radius: .75rem; background: #10b981; color: #07111f; padding: .45rem .7rem; font-size: .75rem; font-weight: 700; text-decoration: none; }
+.phone-actions a:hover { background: #6ee7b7; }
 .menu-button { display: none; min-width: 2.75rem; min-height: 2.75rem; border: 1px solid rgba(255,255,255,.14); border-radius: .7rem; background: rgba(255,255,255,.05); color: #fff; font-size: 1.3rem; cursor: pointer; }
 .menu-button:focus-visible { outline: 2px solid #10b981; outline-offset: 2px; }
 .mobile-nav { display: grid; gap: .2rem; padding: .65rem 1.25rem 1.25rem; }
